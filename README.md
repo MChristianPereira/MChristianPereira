@@ -1,9 +1,11 @@
-# Hello, my name is Christian Pereira, and welcome to my GitHub 😊
+# Olá, me chamo Christian Pereira, e seja bem-vindo ao meu GitHub 😊
+
+##### Universitário de Ciências Econômicas na UFRRJ. Tenho enorme interesse em usar análise de dados e programação em Economia e Mercado Financeiro.
 
 <div align="">
   <a href="https://github.com/MChristianPereira">
-    <img height="145em" src="https://github-readme-stats.vercel.app/api?username=MChristianPereira&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MChristianPereira&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="145em" src="https://github-readme-stats.vercel.app/api?username=MChristianPereira&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast&hide_border=false&show_owner=true"/>
+    <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MChristianPereira&theme=highcontrast&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
