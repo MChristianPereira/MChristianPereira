@@ -19,6 +19,10 @@
 
   <img align="center" height="50" width="175" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 
+  <img align="center" height="50" width="125" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+  
+
 </div>
 
 #
