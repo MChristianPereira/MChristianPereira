@@ -1,6 +1,6 @@
 # Olá, me chamo Christian Pereira, e seja bem-vindo ao meu GitHub 😊
 
-##### Universitário de Ciências Econômicas na UFRRJ. Tenho enorme interesse em usar análise de dados e programação em Economia e Mercado Financeiro.
+#### Universitário de Ciências Econômicas na UFRRJ. Tenho enorme interesse em usar análise de dados e programação em Economia e Mercado Financeiro.
 
 <div align="">
   <a href="https://github.com/MChristianPereira">
