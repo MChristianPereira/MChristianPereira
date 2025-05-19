@@ -31,7 +31,4 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=mchristianpereira@gmail.com)
 
 
-###
 
-
- ![Snake animation](https://github.com/MChristianPereira/MChristianPereira/blob/output/github-contribution-grid-snake.svg)
