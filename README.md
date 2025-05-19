@@ -33,4 +33,5 @@
 
 ###
 
+
  ![Snake animation](https://github.com/MChristianPereira/MChristianPereira/blob/output/github-contribution-grid-snake.svg)
